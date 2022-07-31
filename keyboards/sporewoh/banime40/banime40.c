@@ -16,3 +16,17 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include "banime40.h"
+
+
+bool encoder_update_kb(uint8_t index, bool clockwise) {
+    return encoder_update_user(index, clockwise);
+}
+
+bool encoder_update_user(uint8_t index, bool clockwise) {
+    if (clockwise) {
+        tap_code_delay(KC_VOLU, 10);
+    } else {
+        tap_code_delay(KC_VOLD, 10);
+    }
+    return false;
+}

@@ -39,3 +39,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DIODE_DIRECTION COL2ROW
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 10
+
+#define ENCODERS_PAD_A { D0 }
+#define ENCODERS_PAD_B { D1 }
