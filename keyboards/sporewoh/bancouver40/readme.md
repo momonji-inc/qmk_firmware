@@ -1,12 +1,10 @@
-# banime40 
+# bancouver40
 
-![](https://i.imgur.com/sHQyMfEh.jpeg)
-
-A hotswap gasket mount 4x10 that can support multiple layouts.
+A hotswap CFX 4x10 ortholinear keyboard.
 
 * Keyboard Maintainer: [sporewoh](https://github.com/ChrisChrisLoLo)
 * Hardware Supported: Open source PCB files, Pro Micro compatible
-* Hardware Availability: PCBs and Case files available [here](https://github.com/ChrisChrisLoLo/banime40)
+* Hardware Availability: PCBs and Case files available [here](https://github.com/ChrisChrisLoLo/bancouver40)
 
 Make example for this keyboard (after setting up your build environment):
 
