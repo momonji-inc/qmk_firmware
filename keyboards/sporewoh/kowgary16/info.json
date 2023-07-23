@@ -1,11 +1,11 @@
 {
-    "keyboard_name": "banime40", 
+    "keyboard_name": "kowgary16", 
     "manufacturer": "sporewoh",
-    "url": "https://github.com/ChrisChrisLoLo/banime40", 
+    "url": "https://github.com/ChrisChrisLoLo/kowgary16", 
     "maintainer": "sporewoh", 
     "usb": {
      	"vid": "0xBEAF",
-     	"pid": "0x0001",
+     	"pid": "0x0004",
      	"device_version": "0.0.1"
      },
     "layouts": {
@@ -18,7 +18,7 @@
 				{"w":1, "x":0, "y":1}, 
 				{"w":1, "x":1, "y":1}, 
 				{"w":1, "x":2, "y":1}, 
-				{"w":1, "x":3, "y":1},
+				{"w":1, "x":3, "y":1}, 
 				{"w":1, "x":0, "y":2}, 
 				{"w":1, "x":1, "y":2}, 
 				{"w":1, "x":2, "y":2}, 
@@ -26,7 +26,7 @@
 				{"w":1, "x":0, "y":3}, 
 				{"w":1, "x":1, "y":3}, 
 				{"w":1, "x":2, "y":3}, 
-				{"w":1, "x":3, "y":3}, 
+				{"w":1, "x":3, "y":3}
 			]
         }
     }
