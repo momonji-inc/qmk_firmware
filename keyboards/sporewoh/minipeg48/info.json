@@ -1,5 +1,8 @@
 {
-    "keyboard_name": "minipeg48", 
+    "name": "minipeg48", 
+    "vendorId": "0xBEAF",
+    "productId": "0x004",
+    "lighting": "none",
     "manufacturer": "sporewoh",
     "url": "https://github.com/ChrisChrisLoLo/minipeg48", 
     "maintainer": "sporewoh", 
