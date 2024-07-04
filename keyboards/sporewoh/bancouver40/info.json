@@ -1,5 +1,7 @@
 {
-    "keyboard_name": "bancouver40", 
+    "name": "bancouver40",
+    "vendorId": "0xBEAF",
+    "productId": "0x004", 
     "manufacturer": "sporewoh",
     "url": "https://github.com/ChrisChrisLoLo/bancouver40", 
     "maintainer": "sporewoh", 
